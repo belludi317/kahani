@@ -56,10 +56,10 @@ Instead of:
 Kahani can ask:
 "What kind of experience do you want to live?"
 
-##Airbnb:
+## Airbnb:
 Destination → Available experiences → Book
 
-##Kahani:
+## Kahani:
 Traveller → What kind of life do you want? → Discover your story
 
 It can include both bookable experiences and smaller local recommendations,
